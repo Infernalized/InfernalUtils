@@ -1,0 +1,16 @@
+[
+{
+  "modid": "InfernalUtils",
+  "name": "InfernalUtils",
+  "description": "Adds utilities that I want in Minecraft plus first mod",
+  "version": "1.0.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Infernalized"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,36 @@
+[14:21:21] [main/INFO]: Setting user: Player128
+[14:21:27] [Client thread/INFO]: LWJGL Version: 2.9.1
+[14:22:20] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:InfernalUtils
+[14:22:22] [Sound Library Loader/INFO]: Sound engine started
+[14:22:32] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[14:22:32] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[14:22:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:InfernalUtils
+[14:22:37] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[14:22:39] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[14:22:39] [Sound Library Loader/INFO]: Sound engine started
+[14:23:59] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[14:23:59] [Server thread/INFO]: Generating keypair
+[14:24:02] [Server thread/INFO]: Preparing start region for level 0
+[14:24:03] [Server thread/INFO]: Preparing spawn area: 68%
+[14:24:04] [Server thread/INFO]: Changing view distance to 12, from 10
+[14:24:05] [Server thread/INFO]: Player128[local:E:cb2dbede] logged in with entity id 165 at (-1104.5, 4.0, 960.5)
+[14:24:05] [Server thread/INFO]: Player128 joined the game
+[14:24:13] [Server thread/INFO]: Saving and pausing game...
+[14:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[14:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[14:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[14:25:01] [Server thread/INFO]: Player128 has just earned the achievement [Taking Inventory]
+[14:25:01] [Client thread/INFO]: [CHAT] Player128 has just earned the achievement [Taking Inventory]
+[14:25:09] [Server thread/INFO]: [Player128: Given [item.infernalutils:paste.name] * 1 to Player128]
+[14:25:09] [Client thread/INFO]: [CHAT] Given [item.infernalutils:paste.name] * 1 to Player128
+[14:25:12] [Server thread/INFO]: Saving and pausing game...
+[14:25:12] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[14:25:12] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[14:25:12] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[14:25:13] [Server thread/INFO]: Stopping server
+[14:25:13] [Server thread/INFO]: Saving players
+[14:25:13] [Server thread/INFO]: Saving worlds
+[14:25:13] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[14:25:13] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[14:25:13] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[14:25:15] [Client thread/INFO]: Stopping!
